@@ -4,6 +4,7 @@
 
 This project is a clone of Netflix, the popular streaming service, built using HTML, CSS, and JavaScript. The aim is to replicate the user interface and core features of Netflix, providing an immersive experience for users looking to browse and enjoy a wide range of movies and TV shows.
 
+Checkout github pages to view the site.
 ## Features
 
 - **Responsive Design:** The application is designed to provide a seamless experience across various devices, including desktops, tablets, and mobile phones.
